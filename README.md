@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center"> Miguel Salom Jimenez
+<p align="center">
+ <a href="[[LinkedIn URL](https://www.linkedin.com/in/miguel-jaime-salom-jimenez/)]">LinkedIn</a> •
+</p>
+  
+## Skills & Tools
+- Leadership
+- Management
+- Technical to non-technical
