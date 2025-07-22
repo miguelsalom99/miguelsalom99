@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Miguel Salom Jimenez
 <p align="center">
- <a href="[(https://www.linkedin.com/in/miguel-jaime-salom-jimenez/)]">LinkedIn</a> •
+ <a href=[(https://www.linkedin.com/in/miguel-jaime-salom-jimenez/)]>LinkedIn</a> •
 </p>
   
 ## Skills & Tools
