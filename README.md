@@ -16,13 +16,23 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Miguel Salom Jimenez
 <p align="center">
- <a href="https://www.linkedin.com/in/miguel-jaime-salom-jimenez/">LinkedIn</a> •
+ <a href="https://www.linkedin.com/in/miguel-jaime-salom-jimenez/">LinkedIn</a>
 </p>
 
 ## About Me
 At Aernnova Aerospace, my focus as a Tooling Design Engineer since February 2024 has been to optimize solutions using advanced design tools, building on my studies in Industrial Engineering with a major in Mechanics from the European University and my background in Aerospace Engineering from the University of Southampton. Prior to my current role, I gained experience in Data Analytics at Deloitte and Aerodynamic Engineering at Formula UEM, which has given me a practical and analytical perspective. I stand out for my problem solving skills and my ability to expose solutions, qualities that have allowed me to contribute significantly to the projects I have been involved in.
 
-## Skills & Tools
+## 🧰 Skills & Tools
 - Leadership
 - Management
 - Technical to non-technical
+
+## 📚 Certifications
+- SAP FI-CO course at Deloitte
+- Professional on Mechanical Design on SolidWorks
+- o9 Demand Planning
+
+
+
+
+
